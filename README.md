@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Hi | Hallo | Ciao | Olá | Hola | Bonjour
 
+---
 
 - 🔭 I’m currently working on Harvard's CS50: Intro to Computer Science
 - 🌱 I’m currently learning JavaScript
