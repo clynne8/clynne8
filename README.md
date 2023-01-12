@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I started shooting archery at 9 years old
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clynne8)](https://github.com/clynne8/github-readme-stats)
+[![Top Langs] https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clynne8&&show_icons=true&theme=dark]
