@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/clynne8?label=Follow&style=social)](https://github.com/clynne8)
 
 
-- 🔭 I’m currently working on Harvard's CS50: Intro to Computer Science
+- 🔭 I’m currently working on Harvard's CS50
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me: courtney.hyppolite@gmail.com
